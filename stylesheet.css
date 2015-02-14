@@ -1,0 +1,123 @@
+
+.body {
+
+	background: url("lightdots2.jpg");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.transparent{ 
+
+	margin-left:auto;
+	margin-right:auto;
+	background: rgba(255, 255, 255, 0.52);
+	width: 650px;
+	height:100%
+}
+
+
+
+.melissa {
+
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:15px;	  
+}
+
+@font-face{
+	font-family:'SweetlyBroken';
+	src: url('SweetlyBroken.ttf');
+}
+
+
+h1 {	
+	text-align:center;
+	color: #000000;	
+	font-family:"SweetlyBroken";
+	font-size: 40px;
+	margin-bottom:20px;
+}
+
+
+
+.profile_pic {	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:-15px;
+	height: 150px;
+	width: 150px;
+	border-radius:100px;
+	display: block;	
+}
+
+#melissa{	
+
+	margin-top:15px;
+	margin-bottom:-20px;
+}
+
+.line-separator{
+
+	height:2px;
+	background:#EF5656;
+	width: 440px;
+	margin-left:105px;
+	margin-top:50px;
+
+}
+
+@font-face{
+	font-family:'Market_Deco';
+	src: url('Market_Deco.ttf');
+}
+
+
+.introduction {	
+	
+	
+	list-style-type: none;
+	color:#000000;
+	font-size: 30px;
+	font-family: Market_Deco;
+	text-align: center;
+	padding-left: 16px;
+	padding-right: 6px;
+	margin-top: 40px;
+}
+
+.icons {
+
+	margin-bottom: 40px;
+	margin-left: 35px;
+	margin-top:40px;
+
+}
+
+
+
+#facebook {
+	margin-left:189px;
+	padding-right:20px;
+	height:40px;
+
+}
+
+#linkedin {
+	padding-right:20px;
+	height:40px;
+
+}
+
+
+#twitter{
+	height:40px;}
+
+a 	{ 
+	text-decoration: none }
+
+
+ 
+
+
